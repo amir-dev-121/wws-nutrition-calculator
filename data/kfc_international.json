@@ -1,0 +1,146 @@
+{
+  "brand": "KFC",
+  "region": "International",
+  "menu": [
+    {
+      "category": "Chicken",
+      "items": [
+        { "name": "Original Drumstick", "portion_g": 100, "energy_kj": 933.0, "energy_kcal": 223.0, "fat_g": 12.5, "carbs_g": 8.4, "protein_g": 19.3, "salt_g": 1.3 },
+        { "name": "Original Fillet", "portion_g": 95, "energy_kj": 1136.2, "energy_kcal": 253.7, "fat_g": 15.2, "carbs_g": 9.5, "protein_g": 19.0, "salt_g": 1.8 },
+        { "name": "Original Strips", "portion_g": 46, "energy_kj": 469.7, "energy_kcal": 112.2, "fat_g": 5.4, "carbs_g": 5.9, "protein_g": 10.0, "salt_g": 0.8 },
+        { "name": "Hot & Spicy Wings", "portion_g": 46, "energy_kj": 658.7, "energy_kcal": 156.4, "fat_g": 10.9, "carbs_g": 6.7, "protein_g": 7.9, "salt_g": 0.5 },
+        { "name": "Hot & Spicy Strips", "portion_g": 48, "energy_kj": 530.4, "energy_kcal": 126.7, "fat_g": 7.0, "carbs_g": 6.2, "protein_g": 9.8, "salt_g": 0.7 },
+        { "name": "Hot & Spicy Zinger Fillet", "portion_g": 105, "energy_kj": 1409.1, "energy_kcal": 339.2, "fat_g": 24.2, "carbs_g": 17.9, "protein_g": 22.1, "salt_g": 2.2 },
+        { "name": "Vegetarian Strips", "portion_g": 31, "energy_kj": 214.5, "energy_kcal": 51.5, "fat_g": 2.3, "carbs_g": 3.5, "protein_g": 3.6, "salt_g": 0.4 }
+      ]
+    },
+    {
+      "category": "Burgers and Wraps - Hot & Spicy",
+      "items": [
+        { "name": "Crispy Burger", "portion_g": 121, "energy_kj": 1492.3, "energy_kcal": 361.1, "fat_g": 16.1, "carbs_g": 38.1, "protein_g": 14.5, "salt_g": 1.6 },
+        { "name": "Cheeseburger", "portion_g": 140, "energy_kj": 1462.1, "energy_kcal": 351.5, "fat_g": 12.0, "carbs_g": 43.6, "protein_g": 17.0, "salt_g": 2.2 },
+        { "name": "Double Cheeseburger", "portion_g": 200, "energy_kj": 2158.1, "energy_kcal": 518.2, "fat_g": 22.0, "carbs_g": 51.8, "protein_g": 29.1, "salt_g": 3.4 },
+        { "name": "i-Twister Honey-mustard", "portion_g": 132, "energy_kj": 1413.4, "energy_kcal": 339.4, "fat_g": 18.2, "carbs_g": 30.8, "protein_g": 13.2, "salt_g": 1.5 },
+        { "name": "American i-Twister", "portion_g": 127, "energy_kj": 1292.4, "energy_kcal": 309.3, "fat_g": 14.0, "carbs_g": 31.7, "protein_g": 15.5, "salt_g": 1.8 },
+        { "name": "Kentucky Cheddar Burger", "portion_g": 310, "energy_kj": 3675.3, "energy_kcal": 878.6, "fat_g": 48.5, "carbs_g": 78.6, "protein_g": 30.6, "salt_g": 4.2 },
+        { "name": "Deluxe Zinger burger", "portion_g": 254, "energy_kj": 2836.5, "energy_kcal": 687.8, "fat_g": 43.8, "carbs_g": 46.6, "protein_g": 25.6, "salt_g": 3.2 },
+        { "name": "Zinger burger", "portion_g": 193, "energy_kj": 2443.9, "energy_kcal": 593.2, "fat_g": 36.4, "carbs_g": 43.1, "protein_g": 20.4, "salt_g": 2.4 },
+        { "name": "Grander Texas burger", "portion_g": 320, "energy_kj": 3375.6, "energy_kcal": 814.6, "fat_g": 47.0, "carbs_g": 66.3, "protein_g": 24.3, "salt_g": 4.1 },
+        { "name": "Chicken BOSS burger", "portion_g": 297, "energy_kj": 3093.6, "energy_kcal": 739.8, "fat_g": 41.2, "carbs_g": 64.5, "protein_g": 26.6, "salt_g": 3.2 },
+        { "name": "Deluxe Twister tortilla", "portion_g": 283, "energy_kj": 2775.2, "energy_kcal": 666.3, "fat_g": 36.4, "carbs_g": 55.8, "protein_g": 30.6, "salt_g": 3.5 },
+        { "name": "Kentucky Cheddar Wrapstar", "portion_g": 308, "energy_kj": 3591.2, "energy_kcal": 868.6, "fat_g": 49.4, "carbs_g": 73.9, "protein_g": 30.7, "salt_g": 4.8 },
+        { "name": "Twister", "portion_g": 243, "energy_kj": 2268.4, "energy_kcal": 543.7, "fat_g": 25.2, "carbs_g": 53.9, "protein_g": 25.8, "salt_g": 2.6 },
+        { "name": "Boxmaster", "portion_g": 301, "energy_kj": 3039.1, "energy_kcal": 730.8, "fat_g": 41.5, "carbs_g": 63.9, "protein_g": 25.0, "salt_g": 3.6 }
+      ]
+    },
+    {
+      "category": "Burgers and Wraps - Original",
+      "items": [
+        { "name": "Crispy Burger", "portion_g": 121, "energy_kj": 1492.3, "energy_kcal": 361.1, "fat_g": 16.1, "carbs_g": 38.1, "protein_g": 14.5, "salt_g": 1.6 },
+        { "name": "Cheeseburger", "portion_g": 140, "energy_kj": 1462.1, "energy_kcal": 351.5, "fat_g": 12.0, "carbs_g": 43.6, "protein_g": 17.0, "salt_g": 2.2 },
+        { "name": "Double Cheeseburger", "portion_g": 200, "energy_kj": 2158.1, "energy_kcal": 518.2, "fat_g": 22.0, "carbs_g": 51.8, "protein_g": 29.1, "salt_g": 3.4 },
+        { "name": "i-Twister Honey-mustard", "portion_g": 132, "energy_kj": 1413.4, "energy_kcal": 339.4, "fat_g": 18.2, "carbs_g": 30.8, "protein_g": 13.2, "salt_g": 1.5 },
+        { "name": "American i-Twister", "portion_g": 127, "energy_kj": 1292.4, "energy_kcal": 309.3, "fat_g": 14.0, "carbs_g": 31.7, "protein_g": 15.5, "salt_g": 1.8 },
+        { "name": "Kentucky Cheddar Burger", "portion_g": 300, "energy_kj": 3402.4, "energy_kcal": 793.1, "fat_g": 39.6, "carbs_g": 74.4, "protein_g": 33.8, "salt_g": 4.4 },
+        { "name": "Deluxe Fillet burger", "portion_g": 244, "energy_kj": 2563.6, "energy_kcal": 602.3, "fat_g": 34.8, "carbs_g": 42.4, "protein_g": 28.8, "salt_g": 3.4 },
+        { "name": "Fillet burger", "portion_g": 183, "energy_kj": 2171.0, "energy_kcal": 507.7, "fat_g": 27.5, "carbs_g": 38.9, "protein_g": 23.7, "salt_g": 2.6 },
+        { "name": "Grander Texas burger", "portion_g": 310, "energy_kj": 3102.7, "energy_kcal": 729.1, "fat_g": 38.0, "carbs_g": 62.1, "protein_g": 27.5, "salt_g": 4.4 },
+        { "name": "Chicken BOSS burger", "portion_g": 287, "energy_kj": 2820.7, "energy_kcal": 654.3, "fat_g": 32.3, "carbs_g": 60.4, "protein_g": 29.8, "salt_g": 3.5 },
+        { "name": "Deluxe Twister", "portion_g": 279, "energy_kj": 2653.7, "energy_kcal": 637.3, "fat_g": 33.3, "carbs_g": 55.1, "protein_g": 31.0, "salt_g": 3.7 },
+        { "name": "Twister", "portion_g": 239, "energy_kj": 2146.9, "energy_kcal": 514.8, "fat_g": 22.0, "carbs_g": 53.2, "protein_g": 26.1, "salt_g": 2.9 },
+        { "name": "Kentucky Cheddar Wrapstar", "portion_g": 298, "energy_kj": 3318.3, "energy_kcal": 783.1, "fat_g": 40.4, "carbs_g": 69.7, "protein_g": 33.9, "salt_g": 5.0 },
+        { "name": "Boxmaster", "portion_g": 291, "energy_kj": 2766.2, "energy_kcal": 645.3, "fat_g": 32.5, "carbs_g": 59.8, "protein_g": 28.2, "salt_g": 3.9 },
+        { "name": "Veggie Twister", "portion_g": 216, "energy_kj": 1537.5, "energy_kcal": 367.9, "fat_g": 12.5, "carbs_g": 49.7, "protein_g": 13.4, "salt_g": 2.0 },
+        { "name": "Vegetarian Fillet", "portion_g": 150, "energy_kj": 1463.8, "energy_kcal": 356.9, "fat_g": 16.9, "carbs_g": 36.4, "protein_g": 11.9, "salt_g": 1.6 }
+      ]
+    },
+    {
+      "category": "Fries",
+      "items": [
+        { "name": "Fries L", "portion_g": 140, "energy_kj": 1496.6, "energy_kcal": 357.0, "fat_g": 15.4, "carbs_g": 47.6, "protein_g": 3.6, "salt_g": 0.8 },
+        { "name": "Fries M", "portion_g": 100, "energy_kj": 1069.0, "energy_kcal": 255.0, "fat_g": 11.0, "carbs_g": 34.0, "protein_g": 2.6, "salt_g": 0.6 },
+        { "name": "Fries S", "portion_g": 60, "energy_kj": 641.4, "energy_kcal": 153.0, "fat_g": 6.6, "carbs_g": 20.4, "protein_g": 1.6, "salt_g": 0.4 }
+      ]
+    },
+    {
+      "category": "Dips",
+      "items": [
+        { "name": "Garlic", "portion_g": 25.0, "energy_kj": 418.3, "energy_kcal": 101.5, "fat_g": 9.8, "carbs_g": 3.0, "protein_g": 0.2, "salt_g": 0.4 },
+        { "name": "Ketchup", "portion_g": 25.0, "energy_kj": 108.8, "energy_kcal": 25.5, "fat_g": 0.0, "carbs_g": 5.8, "protein_g": 0.3, "salt_g": 0.5 },
+        { "name": "BBQ", "portion_g": 25.0, "energy_kj": 146.0, "energy_kcal": 34.5, "fat_g": 0.1, "carbs_g": 8.0, "protein_g": 0.2, "salt_g": 0.3 },
+        { "name": "Sweet & Sour", "portion_g": 25.0, "energy_kj": 154.3, "energy_kcal": 36.3, "fat_g": 0.0, "carbs_g": 9.0, "protein_g": 0.1, "salt_g": 0.4 },
+        { "name": "Curry Mango", "portion_g": 25.0, "energy_kj": 341.3, "energy_kcal": 82.5, "fat_g": 7.0, "carbs_g": 4.5, "protein_g": 0.4, "salt_g": 0.4 },
+        { "name": "Hot Salsa", "portion_g": 25.0, "energy_kj": 88.0, "energy_kcal": 21.0, "fat_g": 0.0, "carbs_g": 4.8, "protein_g": 0.3, "salt_g": 0.4 },
+        { "name": "Sweet Chili", "portion_g": 25.0, "energy_kj": 199.0, "energy_kcal": 46.8, "fat_g": 0.0, "carbs_g": 11.5, "protein_g": 0.1, "salt_g": 0.4 }
+      ]
+    },
+    {
+      "category": "Sides",
+      "items": [
+        { "name": "Coleslaw", "portion_g": 120, "energy_kj": 643.8, "energy_kcal": 155.1, "fat_g": 10.7, "carbs_g": 12.3, "protein_g": 1.1, "salt_g": 0.4 },
+        { "name": "Caesar with Hot&Spicy chicken (without dip)", "portion_g": 243, "energy_kj": 1282.6, "energy_kcal": 307.4, "fat_g": 16.0, "carbs_g": 16.9, "protein_g": 23.6, "salt_g": 1.6 },
+        { "name": "Caesar with Original chicken (without dip)", "portion_g": 239, "energy_kj": 1161.1, "energy_kcal": 278.5, "fat_g": 12.9, "carbs_g": 16.2, "protein_g": 23.9, "salt_g": 1.8 },
+        { "name": "Caesar with Veggie (without dip)", "portion_g": 209, "energy_kj": 650.9, "energy_kcal": 156.9, "fat_g": 6.8, "carbs_g": 11.4, "protein_g": 11.1, "salt_g": 1.0 }
+      ]
+    },
+    {
+      "category": "Ice Cream and Milkshakes",
+      "items": [
+        { "name": "Ice-cream in waffle", "portion_g": 86, "energy_kj": 570.0, "energy_kcal": 165.4, "fat_g": 3.4, "carbs_g": 22.4, "protein_g": 3.8, "salt_g": 0.1 },
+        { "name": "Chocolate ice-cream", "portion_g": 135, "energy_kj": 835.8, "energy_kcal": 198.6, "fat_g": 4.9, "carbs_g": 34.1, "protein_g": 4.6, "salt_g": 0.1 },
+        { "name": "Strawberry ice-cream", "portion_g": 135, "energy_kj": 853.2, "energy_kcal": 202.8, "fat_g": 4.9, "carbs_g": 35.1, "protein_g": 4.6, "salt_g": 0.1 },
+        { "name": "Caramel ice-cream", "portion_g": 135, "energy_kj": 891.2, "energy_kcal": 211.7, "fat_g": 5.1, "carbs_g": 36.8, "protein_g": 4.7, "salt_g": 0.1 },
+        { "name": "Milkshake Vanilla 250ml", "portion_g": 210, "energy_kj": 1149.9, "energy_kcal": 272.4, "fat_g": 4.6, "carbs_g": 51.3, "protein_g": 5.7, "salt_g": 0.2 },
+        { "name": "Milkshake Vanilla 400ml", "portion_g": 280, "energy_kj": 1606.4, "energy_kcal": 380.8, "fat_g": 6.0, "carbs_g": 73.4, "protein_g": 7.4, "salt_g": 0.3 },
+        { "name": "Milkshake Strawberry 250ml", "portion_g": 210, "energy_kj": 1149.1, "energy_kcal": 274.7, "fat_g": 4.6, "carbs_g": 51.0, "protein_g": 5.7, "salt_g": 0.2 },
+        { "name": "Milkshake Strawberry 400ml", "portion_g": 280, "energy_kj": 1605.1, "energy_kcal": 384.6, "fat_g": 6.0, "carbs_g": 72.9, "protein_g": 7.4, "salt_g": 0.3 },
+        { "name": "Milkshake Chocolate 250ml", "portion_g": 210, "energy_kj": 1139.0, "energy_kcal": 269.8, "fat_g": 4.6, "carbs_g": 48.9, "protein_g": 5.7, "salt_g": 0.2 },
+        { "name": "Milkshake Chocolate 400ml", "portion_g": 280, "energy_kj": 1588.7, "energy_kcal": 376.6, "fat_g": 6.0, "carbs_g": 69.6, "protein_g": 7.4, "salt_g": 0.2 }
+      ]
+    },
+    {
+      "category": "Hot Drinks",
+      "items": [
+        { "name": "Black coffee 200 ml", "portion_g": 212, "energy_kj": 139.1, "energy_kcal": 34.1, "fat_g": 1.8, "carbs_g": 3.0, "protein_g": 1.2, "salt_g": 0.0 },
+        { "name": "Black coffee 300ml", "portion_g": 316, "energy_kj": 185.4, "energy_kcal": 45.4, "fat_g": 2.4, "carbs_g": 4.0, "protein_g": 1.6, "salt_g": 0.0 },
+        { "name": "Black coffee with milk 200ml", "portion_g": 210, "energy_kj": 368.9, "energy_kcal": 88.4, "fat_g": 4.7, "carbs_g": 7.2, "protein_g": 4.2, "salt_g": 0.1 },
+        { "name": "Black coffee with milk 300ml", "portion_g": 312, "energy_kj": 543.9, "energy_kcal": 130.1, "fat_g": 6.9, "carbs_g": 10.5, "protein_g": 6.3, "salt_g": 0.2 },
+        { "name": "Cappuccino 200ml", "portion_g": 200, "energy_kj": 280.4, "energy_kcal": 67.4, "fat_g": 3.6, "carbs_g": 5.6, "protein_g": 3.1, "salt_g": 0.1 },
+        { "name": "Cappuccino 300ml", "portion_g": 312, "energy_kj": 341.5, "energy_kcal": 82.1, "fat_g": 4.4, "carbs_g": 6.8, "protein_g": 3.8, "salt_g": 0.1 },
+        { "name": "Caffe latte 200ml", "portion_g": 209, "energy_kj": 294.1, "energy_kcal": 70.6, "fat_g": 3.8, "carbs_g": 5.8, "protein_g": 3.3, "salt_g": 0.1 },
+        { "name": "Caffe latte 300ml", "portion_g": 312, "energy_kj": 417.4, "energy_kcal": 100.1, "fat_g": 5.3, "carbs_g": 8.2, "protein_g": 4.7, "salt_g": 0.1 },
+        { "name": "Flat white 200ml", "portion_g": 212, "energy_kj": 392.1, "energy_kcal": 94.1, "fat_g": 5.0, "carbs_g": 7.7, "protein_g": 4.4, "salt_g": 0.1 },
+        { "name": "Tea 200ml", "portion_g": 200, "energy_kj": 8.0, "energy_kcal": 2.0, "fat_g": 0.0, "carbs_g": 0.4, "protein_g": 0.2, "salt_g": 0.2 },
+        { "name": "Salted caramel latte 300 ml", "portion_g": 400, "energy_kj": 409.2, "energy_kcal": 97.8, "fat_g": 0.0, "carbs_g": 24.1, "protein_g": 0.0, "salt_g": 0.3 },
+        { "name": "Cinnamon cookie Latte 300 ml", "portion_g": 330, "energy_kj": 835.6, "energy_kcal": 200.3, "fat_g": 5.3, "carbs_g": 33.4, "protein_g": 4.7, "salt_g": 0.1 },
+        { "name": "Winter lemon drink 300 ml", "portion_g": 300, "energy_kj": 703.1, "energy_kcal": 168.4, "fat_g": 0.0, "carbs_g": 40.6, "protein_g": 0.5, "salt_g": 0.2 }
+      ]
+    },
+    {
+      "category": "Soft Drinks",
+      "items": [
+        { "name": "CocaCola 100ml", "portion_g": 100, "energy_kj": 180.0, "energy_kcal": 42.0, "fat_g": 0.0, "carbs_g": 4.1, "protein_g": 0.0, "salt_g": 0.0 },
+        { "name": "CocaCola Zero 100ml", "portion_g": 100, "energy_kj": 1.2, "energy_kcal": 0.3, "fat_g": 0.0, "carbs_g": 0.0, "protein_g": 0.0, "salt_g": 0.0 },
+        { "name": "Sprite 100ml", "portion_g": 100, "energy_kj": 38.0, "energy_kcal": 9.0, "fat_g": 0.0, "carbs_g": 1.9, "protein_g": 0.0, "salt_g": 0.0 },
+        { "name": "Fanta 100ml", "portion_g": 100, "energy_kj": 178.0, "energy_kcal": 42.0, "fat_g": 0.0, "carbs_g": 10.3, "protein_g": 0.0, "salt_g": 0.0 },
+        { "name": "Cappy Orange 330ml", "portion_g": 330, "energy_kj": 364.0, "energy_kcal": 86.0, "fat_g": 0.0, "carbs_g": 17.8, "protein_g": 0.0, "salt_g": 0.0 },
+        { "name": "Blueberry Lemonade 285ml", "portion_g": 285, "energy_kj": 470.3, "energy_kcal": 112.0, "fat_g": 0.1, "carbs_g": 26.6, "protein_g": 0.1, "salt_g": 0.0 }
+      ]
+    },
+    {
+      "category": "Deserts",
+      "items": [
+        { "name": "Milk-Choco Donut", "portion_g": 70, "energy_kj": 1163.4, "energy_kcal": 278.6, "fat_g": 15.4, "carbs_g": 30.8, "protein_g": 3.6, "salt_g": 0.3 },
+        { "name": "Violet berries Donut", "portion_g": 68, "energy_kj": 924.1, "energy_kcal": 220.3, "fat_g": 8.8, "carbs_g": 31.3, "protein_g": 3.5, "salt_g": 0.5 },
+        { "name": "Apple-Cinnamon Mini Donut", "portion_g": 21, "energy_kj": 311.0, "energy_kcal": 74.3, "fat_g": 4.0, "carbs_g": 8.6, "protein_g": 0.9, "salt_g": 0.2 },
+        { "name": "Strawberry Mini Donut", "portion_g": 23, "energy_kj": 368.7, "energy_kcal": 88.3, "fat_g": 4.8, "carbs_g": 9.9, "protein_g": 0.9, "salt_g": 0.2 }
+      ]
+    },
+    {
+      "category": "Snacks",
+      "items": [
+        { "name": "Camembert Bites", "portion_g": 20, "energy_kj": 274.6, "energy_kcal": 66.0, "fat_g": 4.2, "carbs_g": 4.0, "protein_g": 2.6, "salt_g": 0.4 }
+      ]
+    }
+  ]
+}

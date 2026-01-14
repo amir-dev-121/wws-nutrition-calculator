@@ -1,0 +1,67 @@
+{
+  "brand": "KFC",
+  "region": "US",
+  "menu": [
+    {
+      "category": "Signature Chicken (Original Recipe)",
+      "items": [
+        { "name": "Original Recipe Breast", "calories": 390, "total_fat_g": 21, "saturated_fat_g": 4, "cholesterol_mg": 145, "sodium_mg": 1190, "carbs_g": 11, "protein_g": 39 },
+        { "name": "Original Recipe Drumstick", "calories": 130, "total_fat_g": 8, "saturated_fat_g": 2, "cholesterol_mg": 75, "sodium_mg": 430, "carbs_g": 4, "protein_g": 12 },
+        { "name": "Original Recipe Thigh", "calories": 280, "total_fat_g": 19, "saturated_fat_g": 5, "cholesterol_mg": 115, "sodium_mg": 910, "carbs_g": 8, "protein_g": 19 },
+        { "name": "Original Recipe Wing", "calories": 130, "total_fat_g": 8, "saturated_fat_g": 2, "cholesterol_mg": 60, "sodium_mg": 380, "carbs_g": 3, "protein_g": 10 }
+      ]
+    },
+    {
+      "category": "Signature Chicken (Extra Crispy)",
+      "items": [
+        { "name": "Extra Crispy Breast", "calories": 530, "total_fat_g": 35, "saturated_fat_g": 6, "cholesterol_mg": 125, "sodium_mg": 1150, "carbs_g": 18, "protein_g": 35 },
+        { "name": "Extra Crispy Drumstick", "calories": 170, "total_fat_g": 12, "saturated_fat_g": 2.5, "cholesterol_mg": 65, "sodium_mg": 370, "carbs_g": 7, "protein_g": 10 },
+        { "name": "Extra Crispy Thigh", "calories": 330, "total_fat_g": 23, "saturated_fat_g": 5, "cholesterol_mg": 100, "sodium_mg": 640, "carbs_g": 12, "protein_g": 17 },
+        { "name": "Extra Crispy Wing", "calories": 210, "total_fat_g": 14, "saturated_fat_g": 2.5, "cholesterol_mg": 65, "sodium_mg": 340, "carbs_g": 11, "protein_g": 10 }
+      ]
+    },
+    {
+      "category": "Chicken Tenders & Nuggets",
+      "items": [
+        { "name": "Chicken Nuggets (5 pc)", "calories": 170, "total_fat_g": 10, "saturated_fat_g": 1.5, "cholesterol_mg": 40, "sodium_mg": 540, "carbs_g": 8, "protein_g": 12 },
+        { "name": "Chicken Nuggets (8 pc)", "calories": 280, "total_fat_g": 16, "saturated_fat_g": 2.5, "cholesterol_mg": 65, "sodium_mg": 860, "carbs_g": 13, "protein_g": 20 },
+        { "name": "Extra Crispy Tenders (1 pc)", "calories": 140, "total_fat_g": 7, "saturated_fat_g": 1, "cholesterol_mg": 35, "sodium_mg": 320, "carbs_g": 8, "protein_g": 10 }
+      ]
+    },
+    {
+      "category": "Sandwiches",
+      "items": [
+        { "name": "KFC Chicken Sandwich (Classic)", "calories": 650, "total_fat_g": 35, "saturated_fat_g": 6, "cholesterol_mg": 95, "sodium_mg": 2140, "carbs_g": 49, "protein_g": 34 },
+        { "name": "KFC Chicken Sandwich (Spicy)", "calories": 620, "total_fat_g": 33, "saturated_fat_g": 6, "cholesterol_mg": 95, "sodium_mg": 2140, "carbs_g": 46, "protein_g": 34 },
+        { "name": "Chicken Little", "calories": 300, "total_fat_g": 18, "saturated_fat_g": 2.5, "cholesterol_mg": 40, "sodium_mg": 620, "carbs_g": 22, "protein_g": 14 }
+      ]
+    },
+    {
+      "category": "Bowls & Pot Pies",
+      "items": [
+        { "name": "Famous Bowl", "calories": 590, "total_fat_g": 23, "saturated_fat_g": 5, "cholesterol_mg": 35, "sodium_mg": 2160, "carbs_g": 65, "protein_g": 31 },
+        { "name": "Spicy Famous Bowl", "calories": 620, "total_fat_g": 25, "saturated_fat_g": 5, "cholesterol_mg": 35, "sodium_mg": 2250, "carbs_g": 68, "protein_g": 31 },
+        { "name": "Chicken Pot Pie", "calories": 720, "total_fat_g": 41, "saturated_fat_g": 25, "cholesterol_mg": 65, "sodium_mg": 1750, "carbs_g": 60, "protein_g": 26 }
+      ]
+    },
+    {
+      "category": "Sides (Individual)",
+      "items": [
+        { "name": "Mashed Potatoes with Gravy", "calories": 130, "total_fat_g": 4.5, "saturated_fat_g": 1, "cholesterol_mg": 0, "sodium_mg": 530, "carbs_g": 19, "protein_g": 2 },
+        { "name": "Cole Slaw", "calories": 170, "total_fat_g": 12, "saturated_fat_g": 2, "cholesterol_mg": 5, "sodium_mg": 180, "carbs_g": 14, "protein_g": 1 },
+        { "name": "Secret Recipe Fries", "calories": 320, "total_fat_g": 15, "saturated_fat_g": 2.5, "cholesterol_mg": 0, "sodium_mg": 1100, "carbs_g": 41, "protein_g": 5 },
+        { "name": "Mac & Cheese", "calories": 140, "total_fat_g": 6, "saturated_fat_g": 3.5, "cholesterol_mg": 15, "sodium_mg": 430, "carbs_g": 15, "protein_g": 5 },
+        { "name": "Sweet Kernel Corn", "calories": 70, "total_fat_g": 0.5, "saturated_fat_g": 0, "cholesterol_mg": 0, "sodium_mg": 0, "carbs_g": 16, "protein_g": 2 },
+        { "name": "Biscuit (1 pc)", "calories": 180, "total_fat_g": 8, "saturated_fat_g": 4, "cholesterol_mg": 0, "sodium_mg": 530, "carbs_g": 23, "protein_g": 4 }
+      ]
+    },
+    {
+      "category": "Dipping Sauces",
+      "items": [
+        { "name": "KFC Sauce", "calories": 90, "total_fat_g": 8, "saturated_fat_g": 1.5, "sodium_mg": 190, "carbs_g": 5, "protein_g": 0 },
+        { "name": "Honey Mustard", "calories": 120, "total_fat_g": 10, "saturated_fat_g": 1.5, "sodium_mg": 150, "carbs_g": 6, "protein_g": 0 },
+        { "name": "Honey BBQ Sauce", "calories": 40, "total_fat_g": 0, "saturated_fat_g": 0, "sodium_mg": 250, "carbs_g": 10, "protein_g": 0 }
+      ]
+    }
+  ]
+}

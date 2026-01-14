@@ -1,0 +1,43 @@
+{
+  "brand": "Starbucks",
+  "region": "US",
+  "currency": "USD",
+  "last_updated": "January 2026",
+  "menu": [
+    {
+      "category": "Espresso Classics (Grande 16 fl oz - 2% Milk)",
+      "items": [
+        { "name": "Caffe Latte", "calories": 190, "total_fat_g": 7, "sat_fat_g": 4.5, "trans_fat_g": 0, "cholesterol_mg": 30, "sodium_mg": 150, "total_carbs_g": 19, "dietary_fiber_g": 0, "sugars_g": 18, "protein_g": 13 },
+        { "name": "Cappuccino", "calories": 140, "total_fat_g": 5, "sat_fat_g": 3, "trans_fat_g": 0, "cholesterol_mg": 20, "sodium_mg": 100, "total_carbs_g": 12, "dietary_fiber_g": 0, "sugars_g": 10, "protein_g": 9 },
+        { "name": "Caramel Macchiato", "calories": 250, "total_fat_g": 7, "sat_fat_g": 4.5, "trans_fat_g": 0, "cholesterol_mg": 25, "sodium_mg": 150, "total_carbs_g": 35, "dietary_fiber_g": 0, "sugars_g": 33, "protein_g": 10 },
+        { "name": "Caffe Mocha (with Whip)", "calories": 370, "total_fat_g": 15, "sat_fat_g": 10, "trans_fat_g": 0, "cholesterol_mg": 45, "sodium_mg": 140, "total_carbs_g": 43, "dietary_fiber_g": 4, "sugars_g": 35, "protein_g": 13 },
+        { "name": "Flat White (Whole Milk Standard)", "calories": 170, "total_fat_g": 9, "sat_fat_g": 5, "trans_fat_g": 0, "cholesterol_mg": 30, "sodium_mg": 130, "total_carbs_g": 14, "dietary_fiber_g": 0, "sugars_g": 13, "protein_g": 9 },
+        { "name": "Caffe Americano", "calories": 15, "total_fat_g": 0, "sat_fat_g": 0, "trans_fat_g": 0, "cholesterol_mg": 0, "sodium_mg": 10, "total_carbs_g": 2, "dietary_fiber_g": 0, "sugars_g": 0, "protein_g": 1 }
+      ]
+    },
+    {
+      "category": "Frappuccino® Blended Beverages (Grande 16 fl oz)",
+      "items": [
+        { "name": "Caramel Frappuccino", "calories": 380, "total_fat_g": 16, "sat_fat_g": 10, "trans_fat_g": 0.5, "cholesterol_mg": 40, "sodium_mg": 230, "total_carbs_g": 55, "dietary_fiber_g": 0, "sugars_g": 54, "protein_g": 4 },
+        { "name": "Mocha Frappuccino", "calories": 410, "total_fat_g": 15, "sat_fat_g": 9, "trans_fat_g": 0.5, "cholesterol_mg": 40, "sodium_mg": 210, "total_carbs_g": 62, "dietary_fiber_g": 2, "sugars_g": 60, "protein_g": 5 },
+        { "name": "Java Chip Frappuccino", "calories": 440, "total_fat_g": 18, "sat_fat_g": 12, "trans_fat_g": 0.5, "cholesterol_mg": 45, "sodium_mg": 240, "total_carbs_g": 65, "dietary_fiber_g": 2, "sugars_g": 60, "protein_g": 6 }
+      ]
+    },
+    {
+      "category": "Seasonal & Holiday (US Menu 2025/2026)",
+      "items": [
+        { "name": "Pumpkin Spice Latte (2% Milk)", "calories": 390, "total_fat_g": 14, "sat_fat_g": 9, "trans_fat_g": 0, "cholesterol_mg": 50, "sodium_mg": 230, "total_carbs_g": 52, "dietary_fiber_g": 0, "sugars_g": 50, "protein_g": 14 },
+        { "name": "Toffee Nut Latte (2% Milk)", "calories": 350, "total_fat_g": 13, "sat_fat_g": 8, "trans_fat_g": 0, "cholesterol_mg": 40, "sodium_mg": 190, "total_carbs_g": 46, "dietary_fiber_g": 0, "sugars_g": 43, "protein_g": 12 },
+        { "name": "Peppermint Mocha (2% Milk)", "calories": 440, "total_fat_g": 16, "sat_fat_g": 10, "trans_fat_g": 0, "cholesterol_mg": 45, "sodium_mg": 160, "total_carbs_g": 63, "dietary_fiber_g": 4, "sugars_g": 54, "protein_g": 13 }
+      ]
+    },
+    {
+      "category": "Cold Brew & Iced Coffee (Grande 16 fl oz)",
+      "items": [
+        { "name": "Starbucks® Cold Brew", "calories": 5, "total_fat_g": 0, "sat_fat_g": 0, "trans_fat_g": 0, "cholesterol_mg": 0, "sodium_mg": 10, "total_carbs_g": 0, "dietary_fiber_g": 0, "sugars_g": 0, "protein_g": 0 },
+        { "name": "Vanilla Sweet Cream Cold Brew", "calories": 110, "total_fat_g": 5, "sat_fat_g": 3.5, "trans_fat_g": 0, "cholesterol_mg": 15, "sodium_mg": 40, "total_carbs_g": 14, "dietary_fiber_g": 0, "sugars_g": 14, "protein_g": 1 },
+        { "name": "Iced Brown Sugar Oatshaken Espresso", "calories": 120, "total_fat_g": 3, "sat_fat_g": 0, "trans_fat_g": 0, "cholesterol_mg": 0, "sodium_mg": 40, "total_carbs_g": 21, "dietary_fiber_g": 1, "sugars_g": 12, "protein_g": 2 }
+      ]
+    }
+  ]
+}

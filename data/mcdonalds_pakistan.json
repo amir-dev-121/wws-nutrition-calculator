@@ -1,0 +1,42 @@
+{
+  "brand": "McDonald's",
+  "region": "Pakistan",
+  "currency": "PKR",
+  "menu": [
+    {
+      "category": "Beef Burgers",
+      "items": [
+        { "name": "Beef Burger", "calories": 270, "total_fat_g": 10.0, "carbohydrates_g": 31.0, "protein_g": 14.0 },
+        { "name": "Cheese Burger", "calories": 326, "total_fat_g": 15.0, "carbohydrates_g": 32.0, "protein_g": 17.0 },
+        { "name": "Quarter Pounder™ with Cheese", "calories": 599, "total_fat_g": 32.0, "carbohydrates_g": 44.0, "protein_g": 34.0 },
+        { "name": "Big Mac™", "calories": 527, "total_fat_g": 28.0, "carbohydrates_g": 41.0, "protein_g": 28.0 },
+        { "name": "McRoyal™", "calories": 659, "total_fat_g": 38.0, "carbohydrates_g": 47.0, "protein_g": 32.0 }
+      ]
+    },
+    {
+      "category": "Chicken & Fish",
+      "items": [
+        { "name": "Chicken Mac™", "calories": 604, "total_fat_g": 33.0, "carbohydrates_g": 57.0, "protein_g": 27.0 },
+        { "name": "McChicken™", "calories": 530, "total_fat_g": 28.0, "carbohydrates_g": 49.0, "protein_g": 22.0 },
+        { "name": "6 Piece Chicken McNuggets™", "calories": 291, "total_fat_g": 17.0, "carbohydrates_g": 17.0, "protein_g": 17.0 },
+        { "name": "Chicken Burger", "calories": 321, "total_fat_g": 14.0, "carbohydrates_g": 35.0, "protein_g": 13.0 },
+        { "name": "McArabia™", "calories": 590, "total_fat_g": 33.0, "carbohydrates_g": 47.0, "protein_g": 26.0 },
+        { "name": "Filet-O-Fish™", "calories": 360, "total_fat_g": 16.0, "carbohydrates_g": 40.0, "protein_g": 15.0 },
+        { "name": "Spicy McCrispy Chicken Deluxe™", "calories": 615, "total_fat_g": 27.7, "carbohydrates_g": 46.7, "protein_g": 17.2 }
+      ]
+    },
+    {
+      "category": "Sides & Desserts",
+      "items": [
+        { "name": "McFries™ (Regular)", "calories": 413, "total_fat_g": 18.8, "carbohydrates_g": 55.0, "protein_g": 5.8 },
+        { "name": "McFlurry™ Oreo", "calories": 428, "total_fat_g": 15.0, "carbohydrates_g": 66.0, "protein_g": 8.0 },
+        { "name": "Caramel Sundae", "calories": 378, "total_fat_g": 9.0, "carbohydrates_g": 67.0, "protein_g": 7.0 },
+        { "name": "Hot Fudge Sundae", "calories": 372, "total_fat_g": 12.0, "carbohydrates_g": 58.0, "protein_g": 7.0 },
+        { "name": "Cone", "calories": 321, "total_fat_g": 8.0, "carbohydrates_g": 56.0, "protein_g": 6.0 },
+        { "name": "Strawberry Sundae", "calories": 156, "total_fat_g": 4.6, "carbohydrates_g": 25.7, "protein_g": 3.0 },
+        { "name": "Apple Pie", "calories": 248, "total_fat_g": 14.0, "carbohydrates_g": 29.0, "protein_g": 2.0 },
+        { "name": "Milkshakes (Vanilla 16 oz)", "calories": 570, "total_fat_g": 16.0, "carbohydrates_g": 89.0, "protein_g": 14.0 }
+      ]
+    }
+  ]
+}

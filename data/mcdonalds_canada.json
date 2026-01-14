@@ -1,0 +1,68 @@
+{
+  "brand": "McDonald's",
+  "region": "Canada",
+  "currency": "CAD",
+  "menu": [
+    {
+      "category": "Breakfast",
+      "items": [
+        { "name": "Bacon 'N Egg Bagel", "calories": 600, "fat_g": 25, "carbs_g": 62, "protein_g": 31 },
+        { "name": "Bacon 'N Egg McMuffin", "calories": 310, "fat_g": 14, "carbs_g": 29, "protein_g": 17 },
+        { "name": "Sausage McMuffin with Egg", "calories": 430, "fat_g": 26, "carbs_g": 29, "protein_g": 20 },
+        { "name": "Sausage McMuffin", "calories": 370, "fat_g": 22, "carbs_g": 28, "protein_g": 14 },
+        { "name": "Egg McMuffin", "calories": 290, "fat_g": 11, "carbs_g": 29, "protein_g": 17 },
+        { "name": "Breakfast Burrito", "calories": 280, "fat_g": 15, "carbs_g": 25, "protein_g": 12 },
+        { "name": "Hotcakes with Syrup & Butter", "calories": 600, "fat_g": 15, "carbs_g": 102, "protein_g": 9 },
+        { "name": "Hash Brown", "calories": 160, "fat_g": 10, "carbs_g": 15, "protein_g": 1 },
+        { "name": "Fruit & Maple Oatmeal", "calories": 290, "fat_g": 4, "carbs_g": 58, "protein_g": 5 }
+      ]
+    },
+    {
+      "category": "Burgers",
+      "items": [
+        { "name": "Mighty Angus Original", "calories": 790, "fat_g": 46, "carbs_g": 51, "protein_g": 44 },
+        { "name": "Big Mac", "calories": 520, "fat_g": 28, "carbs_g": 44, "protein_g": 24 },
+        { "name": "Quarter Pounder with Cheese", "calories": 520, "fat_g": 26, "carbs_g": 41, "protein_g": 30 },
+        { "name": "Double Big Mac", "calories": 680, "fat_g": 38, "carbs_g": 48, "protein_g": 40 },
+        { "name": "McDouble", "calories": 370, "fat_g": 18, "carbs_g": 33, "protein_g": 22 },
+        { "name": "Cheeseburger", "calories": 290, "fat_g": 12, "carbs_g": 32, "protein_g": 15 },
+        { "name": "Hamburger", "calories": 240, "fat_g": 8, "carbs_g": 31, "protein_g": 12 }
+      ]
+    },
+    {
+      "category": "Chicken & Fish",
+      "items": [
+        { "name": "McCrispy", "calories": 520, "fat_g": 25, "carbs_g": 48, "protein_g": 24 },
+        { "name": "McChicken", "calories": 470, "fat_g": 24, "carbs_g": 45, "protein_g": 19 },
+        { "name": "Chicken McNuggets (6 pc)", "calories": 250, "fat_g": 14, "carbs_g": 16, "protein_g": 15 },
+        { "name": "Filet-O-Fish", "calories": 400, "fat_g": 20, "carbs_g": 38, "protein_g": 17 }
+      ]
+    },
+    {
+      "category": "Sandwiches & Wraps",
+      "items": [
+        { "name": "Chicken Caesar McWrap", "calories": 570, "fat_g": 27, "carbs_g": 51, "protein_g": 31 },
+        { "name": "Spicy Szechuan McCrispy", "calories": 610, "fat_g": 30, "carbs_g": 58, "protein_g": 27 },
+        { "name": "Chicken & Bacon Signature McWrap", "calories": 600, "fat_g": 29, "carbs_g": 52, "protein_g": 33 }
+      ]
+    },
+    {
+      "category": "Sides",
+      "items": [
+        { "name": "Poutine", "calories": 510, "fat_g": 26, "carbs_g": 48, "protein_g": 21 },
+        { "name": "French Fries (Medium)", "calories": 340, "fat_g": 16, "carbs_g": 46, "protein_g": 3 },
+        { "name": "Piquant Buffalo Chicken Poutine", "calories": 1020, "fat_g": 62, "carbs_g": 72, "protein_g": 44 },
+        { "name": "Apple Slices", "calories": 40, "fat_g": 0, "carbs_g": 10, "protein_g": 0 }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        { "name": "Skor McFlurry", "calories": 540, "fat_g": 21, "carbs_g": 78, "protein_g": 11 },
+        { "name": "Oreo McFlurry", "calories": 510, "fat_g": 17, "carbs_g": 80, "protein_g": 10 },
+        { "name": "Baked Apple Pie", "calories": 270, "fat_g": 13, "carbs_g": 35, "protein_g": 3 },
+        { "name": "Vanilla Cone", "calories": 240, "fat_g": 6, "carbs_g": 39, "protein_g": 5 }
+      ]
+    }
+  ]
+}

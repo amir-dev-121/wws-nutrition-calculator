@@ -1,0 +1,48 @@
+{
+  "brand": "Starbucks",
+  "region": "UK",
+  "currency": "GBP",
+  "last_updated": "January 2026",
+  "menu": [
+    {
+      "category": "Espresso Drinks (Standard Milk: Semi-Skimmed)",
+      "items": [
+        { "name": "Caffe Latte (Tall)", "kcal": 148, "fat_g": 5.6, "sat_fat_g": 3.6, "carbs_g": 15.1, "sugar_g": 13.3, "protein_g": 9.7, "salt_g": 0.27 },
+        { "name": "Cappuccino (Tall)", "kcal": 91, "fat_g": 3.4, "sat_fat_g": 2.2, "carbs_g": 9.0, "sugar_g": 8.0, "protein_g": 6.0, "salt_g": 0.17 },
+        { "name": "Flat White (Short)", "kcal": 119, "fat_g": 5.8, "sat_fat_g": 3.3, "carbs_g": 10.1, "sugar_g": 8.1, "protein_g": 6.5, "salt_g": 0.17 },
+        { "name": "Caffe Americano (Tall)", "kcal": 11, "fat_g": 0.0, "sat_fat_g": 0.0, "carbs_g": 2.0, "sugar_g": 0.0, "protein_g": 0.7, "salt_g": 0.02 },
+        { "name": "Caramel Macchiato (Tall)", "kcal": 178, "fat_g": 5.3, "sat_fat_g": 3.3, "carbs_g": 24.6, "sugar_g": 22.8, "protein_g": 8.0, "salt_g": 0.25 },
+        { "name": "Caffe Mocha (Tall)", "kcal": 266, "fat_g": 12.5, "sat_fat_g": 7.1, "carbs_g": 32.9, "sugar_g": 25.8, "protein_g": 10.4, "salt_g": 0.22 }
+      ]
+    },
+    {
+      "category": "Seasonal Beverages (Holiday 2025/2026)",
+      "items": [
+        { "name": "Toffee Nut Latte (Tall - Semi)", "kcal": 237, "fat_g": 9.5, "sat_fat_g": 6.5, "carbs_g": 28.1, "sugar_g": 27.0, "protein_g": 9.5, "salt_g": 0.52 },
+        { "name": "Gingerbread Latte (Tall - Semi)", "kcal": 274, "fat_g": 12.8, "sat_fat_g": 8.0, "carbs_g": 30.3, "sugar_g": 28.5, "protein_g": 9.4, "salt_g": 0.31 },
+        { "name": "Vampire Frappuccino (Tall - Skimmed)", "kcal": 231, "fat_g": 10.0, "sat_fat_g": 7.1, "carbs_g": 29.5, "sugar_g": 28.4, "protein_g": 5.1, "salt_g": 0.41 },
+        { "name": "Fudge Brownie Hot Chocolate (Tall - Whole)", "kcal": 265, "fat_g": 13.5, "sat_fat_g": 9.0, "carbs_g": 26.8, "sugar_g": 25.7, "protein_g": 8.5, "salt_g": 0.29 }
+      ]
+    },
+    {
+      "category": "Bakery (Holiday Specials)",
+      "items": [
+        { "name": "Black Forest Slice", "kcal": 432, "fat_g": 21.0, "sat_fat_g": 9.4, "carbs_g": 56.0, "sugar_g": 43.0, "protein_g": 4.4, "salt_g": 0.61 },
+        { "name": "Chocolate Babka", "kcal": 456, "fat_g": 14.0, "sat_fat_g": 6.5, "carbs_g": 70.0, "sugar_g": 22.0, "protein_g": 11.0, "salt_g": 1.10 },
+        { "name": "Festive Triple Chocolate Brownie", "kcal": 466, "fat_g": 30.0, "sat_fat_g": 18.0, "carbs_g": 41.0, "sugar_g": 39.0, "protein_g": 6.5, "salt_g": 0.51 },
+        { "name": "Mince Pie", "kcal": 490, "fat_g": 17.0, "sat_fat_g": 11.0, "carbs_g": 79.0, "sugar_g": 48.0, "protein_g": 4.2, "salt_g": 0.30 },
+        { "name": "Polar Bear Cake Pop", "kcal": 168, "fat_g": 9.1, "sat_fat_g": 5.3, "carbs_g": 20.0, "sugar_g": 14.0, "protein_g": 1.4, "salt_g": 0.18 }
+      ]
+    },
+    {
+      "category": "Savory (Hot & Cold Food)",
+      "items": [
+        { "name": "Festive Feast Toastie", "kcal": 492, "fat_g": 13.0, "sat_fat_g": 6.9, "carbs_g": 62.0, "sugar_g": 6.9, "protein_g": 31.0, "salt_g": 2.20 },
+        { "name": "Pigs Under Blanket Roll", "kcal": 516, "fat_g": 23.0, "sat_fat_g": 8.0, "carbs_g": 55.0, "sugar_g": 9.8, "protein_g": 21.0, "salt_g": 2.00 },
+        { "name": "Festive Turkey Sandwich", "kcal": 438, "fat_g": 11.0, "sat_fat_g": 2.0, "carbs_g": 61.0, "sugar_g": 12.0, "protein_g": 22.0, "salt_g": 1.70 },
+        { "name": "Cheese & Marmite Mini Ciabatta", "kcal": 352, "fat_g": 12.0, "sat_fat_g": 7.2, "carbs_g": 41.0, "sugar_g": 3.0, "protein_g": 19.0, "salt_g": 1.60 },
+        { "name": "Chicken Caesar Wrap", "kcal": 457, "fat_g": 20.0, "sat_fat_g": 4.6, "carbs_g": 50.0, "sugar_g": 4.0, "protein_g": 18.0, "salt_g": 1.50 }
+      ]
+    }
+  ]
+}
